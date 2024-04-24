@@ -23,9 +23,9 @@ namespace C_sharp_lessons
             // int b = int.Parse(numbers[1]);
 
             // Console.WriteLine("Sum: " + (a + b));
-            // Console.WriteLine("Spacing: " + (a - b));
-            // Console.WriteLine("Work: " + (a * b));
-            // Console.WriteLine("Private: " + (a / b));
+            // Console.WriteLine("Subtraction: " + (a - b));
+            // Console.WriteLine("Multiplication: " + (a * b));
+            // Console.WriteLine("Division: " + (a / b));
 
             //3
             // int number = 1234;
