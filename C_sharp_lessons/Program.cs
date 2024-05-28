@@ -11,13 +11,13 @@ namespace C_sharp_lessons
         static void Main(string[] args)
         {
             //1
-            // String name = Console.ReadLine();
+            // string name = Console.ReadLine();
 
             // Console.WriteLine($"Hello {name}");
 
             //2
-            // String input = Console.ReadLine(); 
-            // String[] numbers = input.Split(' '); 
+            // string input = Console.ReadLine(); 
+            // string[] numbers = input.Split(' '); 
 
             // int a = int.Parse(numbers[0]);
             // int b = int.Parse(numbers[1]);
@@ -30,12 +30,12 @@ namespace C_sharp_lessons
             //3
             // int number = 1234;
 
-            // String numberAsString = number.ToString();
+            // string numberAsString = number.ToString();
 
             // Console.WriteLine(numberAsString);
 
             //4
-            // String floatString = "123.45";
+            // string floatString = "123.45";
 
             // try
             // {
@@ -51,7 +51,7 @@ namespace C_sharp_lessons
             //     Console.WriteLine("Строка представляет собой число, меньшее МинЗнач или большее, чем МаксЗнач");
             // }
             //5
-            // String input = Console.ReadLine();
+            // string input = Console.ReadLine();
 
             // double celsius;
             // if (double.TryParse(input, out celsius))
@@ -65,7 +65,7 @@ namespace C_sharp_lessons
             // }
             //6
             // Console.Write("Введите количество секунд, прошедших с начала суток: ");
-            // String input = Console.ReadLine();
+            // string input = Console.ReadLine();
 
             // // Преобразование введённой строки в число типа int
             // int totalSeconds;
